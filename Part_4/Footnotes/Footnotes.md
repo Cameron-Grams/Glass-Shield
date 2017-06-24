@@ -1,4 +1,4 @@
-##Footnotes
+## Footnotes
 
 1. “There are no Khans anymore: Economic Development and Social Change in Tribal Afghanistan”, Jon W. Anderson, Middle East Journal, Vol. 32, No. 2 (Spring 1978) 
 2.  ibid.
