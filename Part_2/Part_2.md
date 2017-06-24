@@ -34,7 +34,7 @@ The virtue of the blockchain is that it provides a mechanism to establish trust 
 
 Due to these risks, applications in Governance should retain human supervision and rely on the more tested features of the blockchain for the time being; the technology can reinforce the role played by officials by compelling integrity in their actions without ceding governance to full automation.  The more stable functions are the features of the blockchain that provide a record embedded in the blockchain itself, the distributed ledger.  The entries in the blocks that compose this ledger can be scripted in a way that reinforces the roles of those involved in governance, by enabling specific roles and permissions for activity (this will be discussed further in Section 6, the Afghan Model).  This provides both an immutable record and supervision of those performing these actions in the government.  This sort of guarantee can be the basis of trust when all involved understand the process.  There is unquestionably an education requirement involved, but there is also a growing body of precedent for this application. 
 
-## 5. Current Perspectives on Implementation
+## 5. Current Perspectives on Implementation _(current as of Jan 2017)_
 In 2016 there have been several notable studies and projects that explore the use of distributed ledger technology, the uses of tokens as cryptocurrency, and the blockchain in general.  The purpose of this paper is to examine how the blockchain technology can be leveraged as a potential trust-building mechanism in areas of weak governance.  With that in mind the following studies and efforts that will be discussed. 
 
 #### United Nations and the International Monetary Fund
